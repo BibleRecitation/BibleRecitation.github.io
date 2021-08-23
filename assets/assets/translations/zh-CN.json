@@ -56,5 +56,10 @@
   "Today's Data": "今日数据",
   "Chart of Daily Finished Verses": "每日完成经节",
   "Chart of Total Finished Verses": "累计完成经节",
-  "Chart of Total Mastered Verses": "累计掌握经节"
+  "Chart of Total Mastered Verses": "累计掌握经节",
+  "Please input your email and click the 'submit' button, you will receive an email for resetting your password.": "请输入电子邮箱并点击'提交'按钮，您将会收到一封邮件告知如何重设密码。",
+  "Failed to send an Email.": "发送电子邮件失败",
+  "An email has beent sent to you.": "成功发送电子邮件，请查收",
+  "Login successfully.": "登录成功",
+  "Login failed.": "登录失败"
 }
